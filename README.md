@@ -1,9 +1,9 @@
-Update 2016/11/13 19:30 bug 修復<br/ >
+Update 2016/11/13 19:30 bug 修復<br>
 Update 2016/11/14 00:14 跨日 bug 處理
 Update 2017/04/18 14:00 網管中心網頁更新 bug 處理
 
 #台科大網路流量監控 v2.0
-下載地址： https://goo.gl/HqsnEY <br/ >
+下載地址： https://goo.gl/HqsnEY <br>
 <br/ >
 這是一個可以自動把 http://network.ntust.edu.tw/ 上的流量統計爬下來的小工具，並會在總流量超過 4500M 時跳視窗提醒<br/ >
 <br/ >
