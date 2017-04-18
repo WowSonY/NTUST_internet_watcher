@@ -1,10 +1,11 @@
 Update 2016/11/13 19:30 bug 修復<br/ >
 Update 2016/11/14 00:14 跨日 bug 處理
+Update 2017/04/18 14:00 網管中心網頁更新 bug 處理
 
-#台科大網路流量監控
-下載地址： https://goo.gl/pfRcWZ <br/ >
+#台科大網路流量監控 v2.0
+下載地址： https://goo.gl/HqsnEY <br/ >
 <br/ >
-這是一個可以自動把 http://network.ntust.edu.tw/ 上的流量統計爬下來的小工具，並會在總流量超過 4500M 時跳泡泡提醒<br/ >
+這是一個可以自動把 http://network.ntust.edu.tw/ 上的流量統計爬下來的小工具，並會在總流量超過 4500M 時跳視窗提醒<br/ >
 <br/ >
 （預設每5分鐘更新一次，因為校方跟此程式都不是即時監控，請自行注意！）
 <br/ >
@@ -28,9 +29,6 @@ Update 2016/11/14 00:14 跨日 bug 處理
 <br/ >
 <br/ >
 #備註
-1. LOGO為台科大校徽，若有侵權請來信 eyanghongbin0315@gmail.com （不要吉我  (´・ω・`) <br/ >
-<br/ >
-2. 這只是一個小小練習，諸多不完善之處請多多指教  d(`･∀･)b <br/ >
-<br/ >
-3. 誠徵女友 ヽ(✿ﾟ▽ﾟ)ノ <br/ >
+1. 此程式僅以 Petingo大 的作品進行Bug修復 https://github.com/Petingo/NTUST_internet_watcher
+
 <br/ >
